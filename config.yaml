@@ -2,7 +2,12 @@ baseURL: "https://kaushik-kumar-trs.github.io"
 languageCode: "en-us"
 title: "Kaushik"
 theme: master
-
+  
+Paginate: 3
+disqusShortname: gurusabarish
+googleAnalytics: G-DWJJVE27WD
+canonifyURLs:  true
+  
 markup:
   goldmark:
     renderer:
