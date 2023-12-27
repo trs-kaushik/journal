@@ -62,9 +62,9 @@ params:
     content: "A passionate and results-driven data enthusiast armed with a Master's in Computer Science and 4 years of rockstar experience in data engineering and analytics.
               
             From architecting data pipelines to orchestrating machine learning applications, I specialize in transforming raw numbers into valuable assets. Eager to bring this expertise into a dynamic role, infusing the power of data science and engineering to drive business growth starting January 2024.
-              \n
-              Let's make data waves together! 🚀✨"
-    image: "/images/kk2.jpg"
+            
+            Let's make data waves together! 🚀✨"
+    image: "/images/kk1.png"
     button:
       background - color: 
       enable: true  
@@ -82,9 +82,9 @@ params:
   about:
     enable: true
     title: "I'm Open to work from January 2024"
-    image: "/images/kk.jpg"
+    image: "/images/hs1.png"
     content: |-
-     As a seasoned analytics and data engieer, I've mastered the art of designing enterprise-level data warehousing pipelines on AWS, managing dream teams, and crafting the intricate techniques of machine learning & natural language processing, and creating dashboards that tell compelling stories.
+     As a seasoned analytics and data engineer, I've mastered the art of designing enterprise-level data warehousing pipelines on AWS, managing dream teams, and crafting the intricate techniques of machine learning & natural language processing, and creating dashboards that tell compelling stories.
      Certified as an AWS Solutions Architect and Tableau Desktop Specialist, I bring a comprehensive skill set to the table. This unique blend of skills, combined with a passion for turning data into actionable insights, positions me as a versatile professional ready to contribute to the dynamic field of data analytics.
      
     skills:
@@ -181,8 +181,8 @@ params:
         content: |-
             - Teaching Assistant for Data Models and Query Languages at the School of Engineering, University at Buffalo
             - Computing Coursework:
-                -  Analysis of Algorithms, Data Models and Query Languages, Distributed Systems, and Computer Security
-            - Data Science Coursework: 
+                -  Analysis of Algorithms, Data Models and Query Languages, Distributed Systems, and Data Intensive Computing
+            - AI Coursework: 
                 - Machine Learning, Reinforcement Learning, Natural Language Processing, and Data Visualization
 
             Extracurricular Activities
@@ -200,11 +200,11 @@ params:
           - Computing Coursework: 
             - Operating Systems, Distributed Systems, Analysis of Alogrithms, Computer Architecture, Cryptography and Computer Networks
           - Data Science Coursework: 
-            - Artificial Intelligence, Data Warehousing and  Data Mining, Big Data Analytics, Predictive Analytics, Database Management Systems 
+            - Artificial Intelligence, Data Warehousing and Data Mining, Big Data Analytics, Predictive Analytics, Database Management Systems 
 
 
           Extracurricular Activities
-            - Participated in Smart India Hackathon, Presented a blood donation andriod application that showcases the donors and receivers in a geographical map
+            - Participated in Smart India Hackathon, presented a blood donation andriod application that showcases the donors and receivers in a geographical map
             - Served as the key member for conducting the university Annual Fest "YUKTHAHA"
             - Won multiple athletic competitions during all 4 years in the Intrumural tournements
 
@@ -279,7 +279,7 @@ params:
             
             
       - title: Bitcoin Price Prediction using Sentiment Analysis
-        content: A deep learning based application trained using LSTM networks, and Sentiment Analysis on top of historical Bitcoin prices, and Twitter tweets
+        content: A deep learning based application trained using LSTM networks, and Sentiment Analysis on top of historical Bitcoin prices, and Twitter tweets that predicts future bitcoin prices with precision
         image: /images/projects/BTC.png
         featured:
           name: Click here to know more!
@@ -297,7 +297,7 @@ params:
 
 
       - title: Customer Purchaing Intension Recognition
-        content: Leveraged statistical machine learning techniques such as Decision Trees, XGBoost, and Random Forest Classifiers to identify a potential customer 
+        content: Leveraged statistical machine learning techniques such as Decision Trees, XGBoost, and Random Forest Classifiers to detect potential customer retention using session data gathered from Google Analytics
         image: /images/projects/advert1.png
         featured:
           name: Click here to know more!
