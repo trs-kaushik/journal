@@ -2,6 +2,7 @@ baseURL: "https://trs-kaushik.github.io"
 languageCode: "en-us"
 title: "Kaushik"
 theme: master
+description: "Portfolio"
   
 Paginate: 3
 disqusShortname: gurusabarish
@@ -69,7 +70,7 @@ params:
       background - color: 
       enable: true  
       name: "Resume"
-      url: "https://drive.google.com/file/d/1uW--_yd5WZB6y2sKjUzvgaeqml6YBdCx/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1zkDRlZANhMHq0tewkNL2PKHiCR001KF9/view?usp=sharing"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
