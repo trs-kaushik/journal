@@ -118,14 +118,14 @@ params:
             - Outlined agile sprint requirements, and provided stakeholders with reporting data and dashboards
             - Performed ad-hoc analysis, and shared weekly reports and deliverables with stakeholders and managers
             - Designed 200+ reporting/analytical layers, optimized data flow, and storage across the Redshift clusters
-            - Orchestrated data pipelines using AWS Glue, integrating ~20 TB of data into AWS Redshift and Aurora
+            - Orchestrated data pipelines using AWS Glue and Airflow, integrating ~20 TB of data into AWS Redshift
             - Provisioned AWS services, designed a seamless process to migrate on-premises applications into AWS
             - Developed analytical dashboards using RShiny to boost business and reduce clinical activity time
             - Fine tuned and orchestrated a bagging regressor to predict the revenue potential of new clinical centers
             - Performed EDA on the US census data and presented the findings in an insightful Tableau dashboard
             - Conducted sentiment analysis on social media reviews, driving performance insights for plasma centers
             - Conducted proof of concepts to process HCP-signed attestations using AWS Textract, Lambda, and SNS
-            - Tech Stack: AWS, Python, SQL, R, Shiny, Spark, dbt, Machine Learning, Tableau, Excel
+            - Tech Stack: AWS, Python, SQL, R, Shiny, Spark, Airflow, dbt, Machine Learning, Tableau, Excel
 
       - job: "Software Engineer - Data"
         company: "Infoview Technologies"
