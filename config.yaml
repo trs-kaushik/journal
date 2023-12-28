@@ -114,7 +114,7 @@ params:
         content: |
           India, Pune
             - Partnered with US-based fortune-500 life science companies to implement an enterprise-level data warehouse and analytics infrastructure on the AWS big data platform
-            - Managed cross-functional teams with 6 associates to build ETL pipelines to process healthcare workflows
+            - Managed cross-functional teams with 6 associates to build ELT pipelines to process healthcare workflows
             - Outlined agile sprint requirements, and provided stakeholders with reporting data and dashboards
             - Performed ad-hoc analysis, and shared weekly reports and deliverables with stakeholders and managers
             - Designed 200+ reporting/analytical layers, optimized data flow, and storage across the Redshift clusters
@@ -146,7 +146,7 @@ params:
             - Managed the development of PL/SQL stored procedures and triggers to streamline database operations
             - Designed 40% of the backend data model architecture with optimal normalization and indexing techniques
             - Developed an automated framework to mitigate manual data validations using advanced Excel by 100%
-            - Tech Stack: AWS, Python, SQL, Java, Spring Boot, MongoDB, Rest API, GitLab, Jenkins, Docker, Excel
+            - Tech Stack: AWS, Python, SQL, Java, Spring MVC, MongoDB, Rest API, GitLab, Jenkins, Docker, Excel
           
       - job: "Teaching Assitant - Data Models and Query Languages"
         company: "University at Buffalo"
