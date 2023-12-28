@@ -110,7 +110,7 @@ params:
           content: "Location: India, Pune "
         featuredLink:
           enable: false
-          url: "https://example.com"
+          url: "https://zs.com"
         content: |
           India, Pune
             - Partnered with US-based fortune-500 life science companies to implement an enterprise-level data warehouse and analytics infrastructure on the AWS big data platform
@@ -137,8 +137,6 @@ params:
         featuredLink:
           enable: false
           url: "https://ivtlinfoview.com/"
-        infos
-          content: 
         content: |-
           Chennai, India
             - Streamlined the end-to-end backend development lifecycle for web applications tailored to fit the
