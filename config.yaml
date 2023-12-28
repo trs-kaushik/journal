@@ -118,15 +118,14 @@ params:
             - Outlined agile sprint requirements, and provided stakeholders with reporting data and dashboards
             - Performed ad-hoc analysis, and shared weekly reports and deliverables with stakeholders and managers
             - Designed 200+ reporting/analytical layers, optimized data flow, and storage across the Redshift clusters
-            - Automated data transformations using dbt, integrating ~20 TB of data into AWS Redshift and Aurora
-            - Performed data modeling, source-to-target mapping, data quality checks for seamless data integration
+            - Orchestrated data pipelines using AWS Glue, integrating ~20 TB of data into AWS Redshift and Aurora
             - Provisioned AWS services, designed a seamless process to migrate on-premises applications into AWS
-            - Developed analytical dashboards that boosted business by 18% and reduced clinical activity time by 27%
+            - Developed analytical dashboards using RShiny to boost business and reduce clinical activity time
+            - Fine tuned and orchestrated a bagging regressor to predict the revenue potential of new clinical centers
             - Performed EDA on the US census data and presented the findings in an insightful Tableau dashboard
-            - Modeled a bagging regressor with 82% accuracy to predict the revenue potential of new clinical centers
             - Conducted sentiment analysis on social media reviews, driving performance insights for plasma centers
             - Conducted proof of concepts to process HCP-signed attestations using AWS Textract, Lambda, and SNS
-            - Tech Stack: AWS, Python, SQL, R, Shiny, Spark, dbt, Machine Learning, Hive, Tableau, Excel
+            - Tech Stack: AWS, Python, SQL, R, Shiny, Spark, dbt, Machine Learning, Tableau, Excel
 
       - job: "Software Engineer - Data"
         company: "Infoview Technologies"
@@ -138,7 +137,7 @@ params:
         featuredLink:
           enable: false
           url: "https://ivtlinfoview.com/"
-        info:
+        infos
           content: 
         content: |-
           Chennai, India
@@ -199,15 +198,15 @@ params:
         content: |- 
           - Graduated with an excellency award for securing a distinction level GPA of 8.2/10.0 
           - Computing Coursework: 
-            - Operating Systems, Distributed Systems, Analysis of Alogrithms, Computer Architecture, Cryptography and Computer Networks
+            - Operating Systems, Distributed Systems, Analysis of Algorithms, Computer Architecture, Cryptography and Computer Networks
           - Data Science Coursework: 
             - Artificial Intelligence, Data Warehousing and Data Mining, Big Data Analytics, Predictive Analytics, Database Management Systems 
 
 
           Extracurricular Activities
-            - Participated in Smart India Hackathon, presented a blood donation andriod application that showcases the donors and receivers in a geographical map
-            - Served as the key member for conducting the university Annual Fest "YUKTHAHA"
-            - Won multiple athletic competitions during all 4 years in the Intrumural tournements
+            - Participated in intramural tech competition, presented a transportation optimization application that uses real-time data and geospatial mapping to enhance efficiency in route planning
+            - Served as the key member for conducting the university's annual fest "YUKTHAHA"
+            - Won multiple athletic competitions in the Intramural tournaments
 
 
 
@@ -231,7 +230,7 @@ params:
     enable: true
     items:
       - title: Clickbait Spoiler Generation using Large Language Models
-        content: A NLP based application trained using advanced LLM's such as BERT, Mono-T5, and Zero-Shot learning to generate compelling spoilers for clickbaits
+        content: A NLP based application trained using advanced LLMs such as BERT, Mono-T5, and Zero-Shot learning to generate compelling spoilers for clickbaits
         image: /images/projects/CB.png
         featured:
           name: Click here to know more!
@@ -280,7 +279,7 @@ params:
             
             
       - title: Bitcoin Price Prediction using Sentiment Analysis
-        content: A deep learning based application trained using LSTM networks, and Sentiment Analysis on top of historical Bitcoin prices, and Twitter tweets that predicts future bitcoin prices with precision
+        content: A deep learning based application trained using LSTM networks, and Sentiment Analysis on top of historical Bitcoin prices, and Twitter tweets that predict future bitcoin prices with precision
         image: /images/projects/BTC.png
         featured:
           name: Click here to know more!
