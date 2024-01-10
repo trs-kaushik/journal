@@ -125,7 +125,7 @@ params:
             - Performed EDA on the US census data and presented the findings in an insightful Tableau dashboard
             - Conducted sentiment analysis on social media reviews, driving performance insights for plasma centers
             - Conducted proof of concepts to process HCP-signed attestations using AWS Textract, Lambda, and SNS
-            - Tech Stack: AWS, Python, SQL, R, Shiny, Spark, Airflow, dbt, Machine Learning, Tableau, Excel
+            - Tech Stack: AWS, Python, SQL, R, Shiny, Airflow, dbt, Machine Learning, Tableau, Excel
 
       - job: "Software Engineer - Data"
         company: "Infoview Technologies"
