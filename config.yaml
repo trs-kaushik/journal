@@ -294,7 +294,7 @@ params:
             url: https://github.com/trs-kaushik/Machine-learning/tree/master/Bitcoin%20Price%20Prediction%20-%20A%20Time%20Series%20Analysis
 
 
-      - title: Customer Purchaing Intension Recognition
+      - title: Customer Purchasing Intention Recognition
         content: Leveraged statistical machine learning techniques such as Decision Trees, XGBoost, and Random Forest Classifiers to detect potential customer retention using session data gathered from Google Analytics
         image: /images/projects/advert1.png
         featured:
